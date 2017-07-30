@@ -24,7 +24,7 @@ const Page = ({children, navBar}) => {
       </Container>
       <Footer>
         <div className="text-center">
-          &copy; 2017. Example Apollo App.
+          &copy; 2017. Csstudios.
         </div>
       </Footer>
     </section>
